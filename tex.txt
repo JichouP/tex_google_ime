@@ -13,15 +13,17 @@
 かけ	\times	名詞	
 ぎ	\left[\begin{array}{ccc}\end{array}\right]	名詞	
 ぎしき	\left|\begin{array}{ccc}\end{array}\right|	名詞	
+ぎゃ	\frac{1}{}	名詞	
 ぐら	\mathrm{grad}	名詞	
 こ	\cos	名詞	
 ごうどう	\equiv	名詞	
 さ	\sin	名詞	
-し	\theta	名詞	
 し	\oint	名詞	
+し	\theta	名詞	
 しぐ	\sigma	名詞	
-しぐま	\sum	名詞	
+しぐま	\sum_{}^{}	名詞	
 しし	\Theta	名詞	
+す	$$	名詞	
 せ	\int	名詞	
 せせ	\iint	名詞	
 せせせ	\iiint	名詞	
@@ -46,11 +48,11 @@
 ぱい	\pi	名詞	
 び	\frac{d}{d}	名詞	
 ぶ	\frac{}{}	名詞	
-ぷ	\psi	名詞	
 ぷ	\prime	名詞	
+ぷ	\psi	名詞	
 ふぁ	\varphi	名詞	
 ふぁふぁ	\Phi	名詞	
-へ	\frac{\partial}{\partial}	名詞	
+へ	\frac{\partial }{\partial }	名詞	
 べ	\boldsymbol 	名詞	
 べく	\boldsymbol 	名詞	
 よ	\therefore	名詞	
@@ -68,3 +70,10 @@
 れん	\langle	名詞	
 れんりつ	\begin{eqnarray}\left\{\begin{array}{l}\end{array}\right.\end{eqnarray}	名詞	
 ろ	\rho	名詞	
+もじ	\mathrm{}	名詞	
+[	\left[	名詞	
+]	\right]	名詞	
+{	\left{	名詞	
+}	\right}	名詞	
+(	\left(	名詞	
+)	\right)	名詞	
