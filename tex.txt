@@ -1,6 +1,12 @@
+(	\left(	名詞	
+)	\right)	名詞	
 *	\ast	名詞	
 、	,	名詞	
+[	\left[	名詞	
+]	\right]	名詞	
+{	\left{	名詞	
 |	\mid	名詞	
+}	\right}	名詞	
 ~	\sim	名詞	
 ~=	\simeq	名詞	
 <=	\leq	名詞	
@@ -9,6 +15,8 @@
 いぷ	\varepsilon_0	名詞	
 え	\hbar	名詞	
 お	\omega	名詞	
+おお	\Omega	名詞	
+おめ	\omega_0	名詞	
 か	\chi	名詞	
 かけ	\times	名詞	
 ぎ	\left[\begin{array}{ccc}\end{array}\right]	名詞	
@@ -18,15 +26,18 @@
 こ	\cos	名詞	
 ごうどう	\equiv	名詞	
 さ	\sin	名詞	
+さん	^3	名詞	
 し	\oint	名詞	
 し	\theta	名詞	
+しかく	\fbox{\begin{tabular}{l}\end{tabular}}	名詞	
+しき	\begin{fleqn}\begin{align*}\end{align*}\end{fleqn}	名詞	
 しぐ	\sigma	名詞	
 しぐま	\sum_{}^{}	名詞	
 しし	\Theta	名詞	
 す	$$	名詞	
-せ	\int	名詞	
-せせ	\iint	名詞	
-せせせ	\iiint	名詞	
+せ	\int_{}^{}	名詞	
+せせ	\iint_{}^{}	名詞	
+せせせ	\iiint_{}^{}	名詞	
 た	\tan	名詞	
 だ	\dagger	名詞	
 たう	\tau	名詞	
@@ -35,6 +46,7 @@
 で	\Delta	名詞	
 でぃ	\displaystyle	名詞	
 でぃ	\mathrm{div}	名詞	
+てふ	\documentclass[autodetect-engine,dvipdfmx-if-dvi,ja=standard]{bxjsarticle}\usepackage{amsmath}\usepackage{amssymb}\usepackage{nccmath}\usepackage{cases}\usepackage{graphicx}\title{text}\author{17B06096 小林 明}	名詞	
 でる	\partial	名詞	
 ど	\dot{}	名詞	
 どうち	\Leftrightarrow	名詞	
@@ -42,11 +54,14 @@
 な	\nabla	名詞	
 ない	\cdot	名詞	
 に	^2	名詞	
+にほんご	\mbox{}	名詞	
 は	\hat{}	名詞	
 ば	\bar	名詞	
 ぱ	\partial	名詞	
 ぱい	\pi	名詞	
+ひ	\begin{fleqn}\end{fleqn}	名詞	
 び	\frac{d}{d}	名詞	
+ふ	\phi	名詞	
 ぶ	\frac{}{}	名詞	
 ぷ	\prime	名詞	
 ぷ	\psi	名詞	
@@ -55,6 +70,11 @@
 へ	\frac{\partial }{\partial }	名詞	
 べ	\boldsymbol 	名詞	
 べく	\boldsymbol 	名詞	
+へへ	\frac{\partial^2 }{\partial ^2}	名詞	
+ま	-	名詞	
+む	\mu	名詞	
+むう	\mu_0	名詞	
+もじ	\mathrm{}	名詞	
 よ	\therefore	名詞	
 ら	\rightarrow	名詞	
 らぷ	\partial^2	名詞	
@@ -70,10 +90,3 @@
 れん	\langle	名詞	
 れんりつ	\begin{eqnarray}\left\{\begin{array}{l}\end{array}\right.\end{eqnarray}	名詞	
 ろ	\rho	名詞	
-もじ	\mathrm{}	名詞	
-[	\left[	名詞	
-]	\right]	名詞	
-{	\left{	名詞	
-}	\right}	名詞	
-(	\left(	名詞	
-)	\right)	名詞	
